@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Ludd <luddlu@humanbacker.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "dev": "node lib/cli.js"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.0",
+    "@mo-demo/cli-shared-utils": "^0.0.1",
     "chalk": "^5.0.1"
   }
 }
