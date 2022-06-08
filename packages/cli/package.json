@@ -1,0 +1,27 @@
+{
+  "name": "@mo-demo/cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Ludd <luddlu@humanbacker.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "dev": "node lib/cli.js"
+  },
+  "dependencies": {
+    "@mo-demo/cli-shared-utils": "^0.0.0",
+    "chalk": "^5.0.1"
+  }
+}
