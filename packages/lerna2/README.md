@@ -1,11 +1,11 @@
-# `cli`
+# `lerna2`
 
 > TODO: description
 
 ## Usage
 
 ```
-const cli = require('cli');
+const lerna2 = require('lerna2');
 
 // TODO: DEMONSTRATE API
 ```

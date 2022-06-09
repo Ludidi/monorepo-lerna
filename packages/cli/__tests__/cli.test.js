@@ -2,6 +2,8 @@
 
 const cli = require('..');
 
-describe('@mo-demo/cli', () => {
-    it('needs tests');
+describe('lerna cli', () => {
+  it('cli', () => {
+    expect(cli()).toBe('cli');
+  });
 });
