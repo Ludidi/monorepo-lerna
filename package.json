@@ -4,7 +4,11 @@
   "devDependencies": {
     "eslint": "^8.17.0",
     "eslint-plugin-prettier": "^4.0.0",
+    "execa": "^6.1.0",
+    "fs-extra": "^10.1.0",
+    "init-package-json": "^3.0.2",
     "lerna": "^5.1.0",
+    "pify": "^5.0.0",
     "prettier": "^2.6.2"
   },
   "scripts": {

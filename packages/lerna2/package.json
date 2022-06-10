@@ -22,7 +22,14 @@
   "bugs": {
     "url": "https://github.com/Ludidi/monorepo-lerna/issues"
   },
+  "bin": {
+    "lerna2": "cli.js"
+  },
   "dependencies": {
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "yargs": "^17.5.1",
+    "cli": "^0.0.1",
+    "init": "^0.0.1",
+    "create": "^0.0.1"
   }
 }
