@@ -1,6 +1,6 @@
 {
   "name": "lerna2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Ludd <luddlu@humanbacker.com>",
   "homepage": "https://github.com/Ludidi/monorepo-lerna#readme",
@@ -26,10 +26,10 @@
     "lerna2": "cli.js"
   },
   "dependencies": {
+    "cli": "^0.0.2",
+    "create": "^0.0.2",
+    "init": "^0.0.2",
     "jest": "^28.1.1",
-    "yargs": "^17.5.1",
-    "cli": "^0.0.1",
-    "init": "^0.0.1",
-    "create": "^0.0.1"
+    "yargs": "^17.5.1"
   }
 }
